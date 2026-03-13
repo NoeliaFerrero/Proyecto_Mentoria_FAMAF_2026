@@ -1,6 +1,6 @@
 # Mentoria FAMAF 2026 
 
-<h1 align="center">Proyecto: 🎬 <em>El Factor D10S: La Ciencia de datos puede ayudarnos a jugar el tiempo suplementaria contra el abandono escolar? </em></h1>  
+<h1 align="center">Proyecto: <em> El Factor D10S: La Ciencia de datos puede ayudarnos a jugar el tiempo suplementario contra el abandono escolar? </em></h1>  
 
 En el fútbol los partidos se definen por pequeñas jugadas.
 En los datos también.
