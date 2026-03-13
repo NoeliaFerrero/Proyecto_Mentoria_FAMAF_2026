@@ -1,3 +1,12 @@
+---------------------------------------
+|   EL FACTOR D10S                    |
+|   Ciencia de Datos + Educación      |
+|                                     |
+|   Detectando abandono escolar       |
+---------------------------------------
+
+
+
 # Mentoria FAMAF 2026 
 
 <h1 align="center">Proyecto: <em> El Factor D10S ¿la Ciencia de datos puede ayudarnos a jugar el tiempo suplementario contra el abandono escolar? </em></h1>  
