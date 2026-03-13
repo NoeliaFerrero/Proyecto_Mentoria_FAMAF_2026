@@ -1,6 +1,9 @@
-# Mentoria FAMAF 2025 
+# Mentoria FAMAF 2026 
 
-<h1 align="center">Proyecto: 🎬 <em>El ROBO del SIGLO -> DIGITAL</em></h1>  
+<h1 align="center">Proyecto: 🎬 <em>El Factor D10S: La Ciencia de datos puede ayudarnos a jugar el tiempo suplementaria contra el abandono escolar? </em></h1>  
+
+En el fútbol los partidos se definen por pequeñas jugadas.
+En los datos también.
 
 <div align="center">
 
@@ -8,6 +11,9 @@
   <img src="https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/fa650be76572d686e4ce25bf2453fbdba77f82e8/Un%20plan%20secreto.png" width="40%">
 </p>
 </div>
+
+
+
 
 - 📽️[Sinopsis](#Sinopsis) 
 - [El Plan Maestro](#El_Plan_Maestro)
