@@ -3,9 +3,9 @@
 
 <!-- Título -->
 
-# Proyecto: El Factor D10S
+# Proyecto: El Factor D10S en tiempo sumplementario
 
-## ¿Como la Ciencia de Datos, puede ayudarnos a jugar el tiempo suplementario contra el abandono escolar?
+## Cuando se juega el partido contra el abandono escolar, la Ciencia de Datos puede marcar la diferencia
 
 El objetivo del proyecto es combinar los microdatos (anonimizados) de las pruebas Aprender a nivel país, con la Encuesta Permanente de Hogares (EPH-INDEC) para modelar y predecir factores de abandono escolar, contribuyendo al análisis educativo en Argentina.
 
