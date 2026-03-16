@@ -7,14 +7,16 @@
 
 
 
-# Mentoria FAMAF 2026 
+# Mentoria FAMAF 2026
 
-<h1 align="center">Proyecto: <em> El Factor D10S ¿la Ciencia de datos puede ayudarnos a jugar el tiempo suplementario contra el abandono escolar? </em></h1>  
+<p align="center">
+  <strong>Proyecto:</strong> <em>El Factor D10S: ¿La Ciencia de Datos puede ayudarnos a jugar el tiempo suplementario contra el abandono escolar?</em>
+</p>
 
-En el fútbol los partidos se definen por pequeñas jugadas.
-En los datos también.
-
-<div align="center">
+<p align="center">
+  En el fútbol, los partidos se definen por pequeñas jugadas.<br>
+  En los datos, también.
+</p>
 
 <p align="center">
   <img src="https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/fa650be76572d686e4ce25bf2453fbdba77f82e8/Un%20plan%20secreto.png" width="40%">
