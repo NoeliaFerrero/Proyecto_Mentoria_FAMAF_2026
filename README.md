@@ -1,20 +1,13 @@
----------------------------------------
-|   EL FACTOR D10S                    |
-|   Ciencia de Datos + Educación      |
-|                                     |
-|   Detectando abandono escolar       |
----------------------------------------
 
-
-
-# Mentoria FAMAF 2026
+# Mentoría FAMAF 2026
 
 <p align="center">
-  <strong>Proyecto:</strong> <em>El Factor D10S: ¿La Ciencia de Datos puede ayudarnos a jugar el tiempo suplementario contra el abandono escolar?</em>
+  <strong>Proyecto:</strong><br>
+  <span style="font-size:30px;"><em>El Factor D10S: Como la Ciencia de Datos, puede ayudarnos a jugar el tiempo suplementario contra el abandono escolar</em></span>
 </p>
 
 <p align="center">
-  En el fútbol, los partidos se definen por pequeñas jugadas.<br>
+  En el fútbol, los partidos se definen por pequeños detalles.<br>
   En los datos, también.
 </p>
 
@@ -35,25 +28,25 @@ Cuando el tiempo reglamentario termina, aparece el **tiempo suplementario**: ese
 
 En los datos ocurre algo parecido.
 
-A veces los números parecen claros, los modelos funcionan, las métricas cierran…
+A veces los números parecen claros, las métricas cierran…
 pero siempre queda una pregunta más por hacer, un patrón más por entender, una historia más por descubrir.
 
 Este proyecto no busca dar respuestas definitivas.
 
-Busca algo quizás más interesante: **abrir preguntas**.
+Busca algo quizás más interesante: **abrir nuevas preguntas**.
 
 ¿Podemos detectar señales tempranas de abandono escolar?
 ¿Existen patrones socioeconómicos que nos ayuden a entender mejor las trayectorias educativas?
-¿Puede la Ciencia de Datos aportar nuevas miradas sobre problemas sociales complejos?
+¿Puede la Ciencia de Datos aportar nuevas miradas sobre el verdadero poder de la educación?
 
-El **Factor D10S** es solo un experimento para explorar esas preguntas.
+El **Factor D10S** es un proyecto pensado para explorar esas preguntas.
 
 Un intento de usar herramientas de Ciencia de Datos para mirar un problema real desde otra perspectiva.
 
 Y como en el fútbol, a veces lo importante no es solo el resultado final,
 sino **todo lo que aprendemos mientras jugamos el partido**.
 
-Si este proyecto logra despertar curiosidad, generar preguntas nuevas o inspirar a alguien a mirar los datos con otros ojos…
+Si este proyecto logra despertar curiosidad, generar preguntas nuevas o inspirar a alguien a mirar datos relacionados a educación con otro enfoque…
 
 entonces habrá valido la pena jugar este partido.
 
