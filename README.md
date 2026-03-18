@@ -3,11 +3,8 @@
 
 <!-- Título -->
 
-# Proyecto: 
-
 # El Factor D10S: Datos que predicen el abandono escolar antes de llegar al tiempo suplementario
-
-## Entender mejor. Detectar a tiempo. Actuar. 
+### *Entender mejor. Detectar a tiempo. Actuar.*
 
 El objetivo del proyecto es combinar los microdatos (anonimizados) de las pruebas Aprender a nivel país, con la Encuesta Permanente de Hogares (EPH-INDEC) para modelar y predecir factores de abandono escolar, contribuyendo al análisis educativo en Argentina.
 
@@ -45,6 +42,8 @@ Busca algo quizás más interesante: propone “marcar la cancha” de un proble
 
 Un proyecto pensado para explorar esos interrogantes, desde otra perspectiva. Encontrar oportunidades para intervenir, acompañar y sostener a quienes están en riesgo de quedarse fuera del juego.
 
+---
+
 ## La Pregunta Científica
 
 Toda investigación comienza con una pregunta clara.
@@ -56,6 +55,8 @@ En este proyecto intentaremos responder:
 Responder esta pregunta no solo tiene valor académico.
 
 También puede aportar herramientas para comprender mejor las trayectorias educativas y los factores que influyen en ellas.
+
+---
 
 ## Pipeline del Proyecto
 
@@ -71,6 +72,9 @@ C --> D[Feature Engineering]
 D --> E[Modelos de Machine Learning]
 E --> F[Indicador Factor D10S]
 ```
+
+---
+
 ## Datos Utilizados
 
 El dataset principal se construirá a partir de microdatos de la **Encuesta Permanente de Hogares (EPH)**.
@@ -87,6 +91,8 @@ El dataset final incluirá variables como:
 * Características del hogar
 
 Estos datos permitirán explorar la relación entre contexto socioeconómico y continuidad educativa.
+
+---
 
 ## Estructura del Repositorio
 
@@ -110,6 +116,8 @@ Proyecto_Mentoria_FAMAF_2026
 ```
 
 Cada carpeta cumple un rol específico dentro del flujo de trabajo del proyecto.
+
+---
 
 ## Entregables de la Mentoría
 
