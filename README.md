@@ -5,9 +5,9 @@
 
 # Proyecto: 
 
-# El Factor D10S: Datos que predicen el abandono escolar, antes de llegar al tiempo suplementario
+# El Factor D10S: Datos que predicen el abandono escolar antes de llegar al tiempo suplementario
 
-## Detectar antes. Entender mejor. Intervenir a tiempo
+## Entender mejor. Detectar a tiempo. Actuar. 
 
 El objetivo del proyecto es combinar los microdatos (anonimizados) de las pruebas Aprender a nivel país, con la Encuesta Permanente de Hogares (EPH-INDEC) para modelar y predecir factores de abandono escolar, contribuyendo al análisis educativo en Argentina.
 
@@ -28,14 +28,14 @@ La historia de Maradona suele asociarse a un entorno caótico, impredecible y al
 A pesar de estas diferencias, ambos alcanzaron niveles extraordinarios de rendimiento. Esto plantea una pregunta interesante:
 ¿Las métricas nos enseñan algo más que goles y récords? ¿Cómo influyen el rendimiento físico vs el psicológico? y ¿Qué marca la verdadera diferencia en los partidos que se definen en los últimos minutos? 
 
-Porque, como sabemos, cuando el tiempo reglamentario termina, puede aparecer el **tiempo suplementario**: ese momento clave donde todavía puede pasar algo inesperado.
+Porque, como sabemos, cuando el tiempo reglamentario termina, aparece el **tiempo suplementario**: ese momento clave donde todavía puede pasar algo inesperado.
 
 En los datos ocurre algo parecido.
 A veces los números parecen claros, las métricas cierran…
 pero siempre queda una pregunta más por hacer, un patrón más por entender, una historia más por descubrir.
 
 Este proyecto no busca dar respuestas definitivas.
-Busca algo quizás más interesante: hacer rodar la pelota sobre una cancha marcada por, la colaboración en equipo, el intercambio y los "pases" precisos, que se generen a travez de nuevas preguntas.
+Busca algo quizás más interesante: propone “marcar la cancha” de un problema real -el abandono escolar- y recorrerlo con herramientas de análisis, modelos predictivos y, sobre todo, preguntas.
 
 ¿Cómo puede la Ciencia de Datos aportar nuevas miradas sobre el verdadero poder de la educación?
 
@@ -43,12 +43,7 @@ Busca algo quizás más interesante: hacer rodar la pelota sobre una cancha marc
 
 ¿Existen patrones socioeconómicos que nos ayuden a entender mejor las trayectorias educativas?
 
-El Factor D10S es un proyecto pensado para explorar esos interrogantes, ampliando la mirada a un problema real, desde otra perspectiva.
-Un proyecto que pretende usar las tecnicas de Ciencia de Datos, como jugador principal, en el **tiempo suplementario** contra el abandono escolar, encontrando oportunidades para intervenir, acompañar y sostener a quienes están en riesgo de quedarse fuera del juego.
-
-Y como en el fútbol, a veces lo importante no es solo el resultado final, sino todo lo que aprendemos mientras jugamos el partido.
-
-Porque cada decisión cuenta, y cada apoyo puede ser un gol en la vida de un estudiante.
+Un proyecto pensado para explorar esos interrogantes, desde otra perspectiva. Encontrar oportunidades para intervenir, acompañar y sostener a quienes están en riesgo de quedarse fuera del juego.
 
 ## La Pregunta Científica
 
@@ -64,7 +59,6 @@ También puede aportar herramientas para comprender mejor las trayectorias educa
 
 ## Pipeline del Proyecto
 
-Todo proyecto de Ciencia de Datos sigue un flujo de trabajo.
 En esta mentoría vamos a recorrer ese camino paso a paso, donde todo empieza con datos desordenados…
 y termina (con suerte) en un modelo que nos ayuda a entender mejor un problema.
 
@@ -77,14 +71,6 @@ C --> D[Feature Engineering]
 D --> E[Modelos de Machine Learning]
 E --> F[Indicador Factor D10S]
 ```
-
-En términos simples:
-
-**datos crudos → dataset usable → modelos → indicador experimental**
-
-Nada de magia.
-Solo datos, preguntas interesantes… y bastante curiosidad.
-
 ## Datos Utilizados
 
 El dataset principal se construirá a partir de microdatos de la **Encuesta Permanente de Hogares (EPH)**.
@@ -93,15 +79,14 @@ Se integrarán múltiples años de información para generar un dataset robusto 
 
 El dataset final incluirá variables como:
 
-* edad
+* Edad
 * nivel educativo alcanzado
-* ingreso del hogar
-* composición familiar
-* situación laboral
-* características del hogar
+* Ingreso del hogar
+* Composición familiar
+* Situación laboral
+* Características del hogar
 
 Estos datos permitirán explorar la relación entre contexto socioeconómico y continuidad educativa.
-
 
 ## Estructura del Repositorio
 
@@ -134,10 +119,10 @@ El proyecto se desarrollará en tres entregas principales que reflejan etapas re
 
 Construcción del pipeline de datos:
 
-* descarga de datasets
-* limpieza de datos
-* integración de múltiples fuentes
-* construcción del dataset inicial
+- Descarga de datasets
+- Limpieza de datos
+- Integración de múltiples fuentes
+- Construcción del dataset inicial
 
 ---
 
@@ -145,10 +130,10 @@ Construcción del pipeline de datos:
 
 Análisis exploratorio del dataset:
 
-* análisis de variables
-* visualización de datos
-* detección de patrones iniciales
-* generación de hipótesis
+* Análisis de variables
+* Visualización de datos
+* Detección de patrones iniciales
+* Generación de hipótesis
 
 ---
 
@@ -156,10 +141,10 @@ Análisis exploratorio del dataset:
 
 Entrenamiento y evaluación de modelos de Machine Learning:
 
-* selección de variables
-* entrenamiento de modelos
-* evaluación de desempeño
-* interpretación de resultados
+* Selección de variables
+* Entrenamiento de modelos
+* Evaluación de desempeño
+* Interpretación de resultados
 
 A partir de estos modelos se explorará la construcción del indicador experimental **Factor D10S**.
 
@@ -196,7 +181,7 @@ Participar en este proyecto te permitirá desarrollar habilidades clave en Cienc
 ### Este proyecto NO es para vos si…
 
 * Buscás que todo esté resuelto paso a paso
-* No te interesa trabajar con datos reales
+* No te interesa trabajar en curación de datos 
 * Preferís proyectos puramente teóricos
 * No te gusta investigar patrones en datos
 
@@ -208,7 +193,7 @@ La Ciencia de Datos es, en esencia, un proceso de exploración y descubrimiento.
 
 Más allá de lo académico, el objetivo es que los integrantes desarrollen un proyecto completo de Ciencia de Datos con datos reales.
 
-La meta es que lograr experiencia en todas las etapas del proceso:
+La meta es lograr experiencia en todas las etapas del proceso:
 
 * Construcción de datos
 * Análisis exploratorio
@@ -225,15 +210,13 @@ En el fútbol, detectar talento temprano puede cambiar una carrera.
 
 En educación, detectar trayectorias en riesgo puede cambiar una vida.
 
-Porque a veces, detrás de un estudiante que parece perderse del sistema educativo, puede existir una historia que todavía no fue detectada a tiempo.
+Porque a veces, detrás de un estudiante que parece perderse del sistema educativo, hay señales que simplemente no fueron vistas a tiempo.
 
 Este proyecto propone explorar si la Ciencia de Datos puede ayudarnos a entender mejor esos procesos.
 
-Si esta idea despertó tu curiosidad…
+Si esta idea despertó tu curiosidad… **quizá sea momento de salir a la cancha.**
 
-**quizá sea momento de salir a la cancha.**
-
-Esto recién empieza.
+El juego está por comenzar..!
 
 ---
 
