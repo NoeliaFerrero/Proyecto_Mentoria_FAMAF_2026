@@ -66,7 +66,7 @@ y termina (con suerte) en un modelo que nos ayuda a entender mejor un problema.
 ```mermaid
 flowchart LR
 
-A[Microdatos EPH, Pruebas Aprender a nivel pais, Pruebas PISA] --> B[Construcción del Dataset]
+A[Microdatos EPH vs Pruebas Aprender (a nivel pais)] --> B[Construcción del Dataset]
 B --> C[Limpieza de Datos]
 C --> D[Feature Engineering]
 D --> E[Modelos de Machine Learning]
@@ -77,20 +77,20 @@ E --> F[Indicador Factor D10S]
 
 ## Datos Utilizados
 
-El dataset principal se construirá a partir de microdatos de la **Encuesta Permanente de Hogares (EPH)**.
+El dataset principal se construye a partir de la integración de dos fuentes oficiales:
 
-Se integrarán múltiples años de información para generar un dataset robusto que permita analizar patrones socioeconómicos asociados a trayectorias educativas.
+Encuesta Permanente de Hogares (EPH)
 
-El dataset final incluirá variables como:
+Pruebas Aprender
 
-* Edad
-* nivel educativo alcanzado
-* Ingreso del hogar
-* Composición familiar
-* Situación laboral
-* Características del hogar
+Ambas fuentes presentan diferencias estructurales clave:
 
-Estos datos permitirán explorar la relación entre contexto socioeconómico y continuidad educativa.
+EPH → nivel individuo + hogar
+
+APRENDER → nivel individuo + escuela
+
+Esto introduce un desafío técnico central:
+la unificación de la cartografía, necesaria para poder realizar un matching territorial que permita vincular condiciones socioeconómicas con trayectorias educativas.
 
 ---
 
