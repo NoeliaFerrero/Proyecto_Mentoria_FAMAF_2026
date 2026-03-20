@@ -66,7 +66,7 @@ y termina (con suerte) en un modelo que nos ayuda a entender mejor un problema.
 ```mermaid
 flowchart LR
 
-A[Microdatos EPH vs Pruebas Aprender (a nivel pais)] --> B[Construcción del Dataset]
+A[Microdatos EPH vs Pruebas Aprender - a nivel pais] --> B[Construcción del Dataset]
 B --> C[Limpieza de Datos]
 C --> D[Feature Engineering]
 D --> E[Modelos de Machine Learning]
@@ -91,6 +91,100 @@ APRENDER → nivel individuo + escuela
 
 Esto introduce un desafío técnico central:
 la unificación de la cartografía, necesaria para poder realizar un matching territorial que permita vincular condiciones socioeconómicas con trayectorias educativas.
+
+🧠 Construcción del dataset
+
+El proceso no se limitó a la integración de fuentes, sino que incluyó una curaduría intensiva de variables.
+
+A partir de un diccionario original de más de 1200 variables de APRENDER, se realizó:
+
+Normalización y limpieza de variables
+
+Identificación de familias de variables (ej: variables mensuales)
+
+Clasificación por dimensiones analíticas:
+
+Características del estudiante
+
+Trayectoria educativa
+
+Contexto socioeconómico
+
+Desempeño académico
+
+Filtrado basado en:
+
+Relevancia teórica para abandono escolar
+
+Calidad y redundancia
+
+Compatibilidad con variables disponibles en EPH
+
+Este proceso permitió reducir significativamente la dimensionalidad, priorizando variables interpretables y utilizables en el cruce entre fuentes.
+
+🔗 Criterio de integración con EPH
+
+Se definió un subconjunto de variables con potencial de vinculación directa o indirecta con EPH, incluyendo:
+
+Edad
+
+Sexo
+
+Nivel educativo de padres
+
+Situación laboral
+
+Condiciones del hogar
+
+Acceso a tecnología (internet, computadora)
+
+Indicadores socioeconómicos
+
+Además, se construyó un mapeo de variables estandarizadas, generando un puente semántico entre ambas fuentes.
+
+🧱 Dataset final
+
+El dataset resultante contiene variables agrupadas en dimensiones clave:
+
+👤 Características del estudiante
+
+Edad
+
+Sexo
+
+📊 Trayectoria educativa
+
+Repitencia
+
+Asistencia / inasistencia
+
+Sobreedad
+
+🏠 Contexto socioeconómico
+
+Nivel educativo de padres
+
+Situación laboral
+
+Ingreso del hogar
+
+Condiciones habitacionales
+
+Acceso a tecnología
+
+📚 Desempeño académico
+
+Puntajes en Lengua y Matemática
+
+🎯 Objetivo analítico
+
+Este dataset permitirá explorar la relación entre:
+
+condiciones socioeconómicas y trayectorias educativas,
+con foco en la identificación de factores asociados al riesgo de abandono escolar.
+
+Más que integrar datos, este proyecto busca integrar contextos:
+conectar lo que ocurre en el hogar con lo que sucede en la escuela.
 
 ---
 
