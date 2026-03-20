@@ -3,7 +3,7 @@
 
 <!-- Título -->
 
-# El Factor D10S: Datos que predicen el abandono escolar antes de llegar al tiempo suplementario
+# El Factor D10S: Datos que predicen el abandono escolar antes de jugar el tiempo suplementario
 ### *Entender mejor. Detectar a tiempo. Actuar.*
 
 El objetivo del proyecto es combinar los microdatos (anonimizados) de las pruebas Aprender a nivel país, con la Encuesta Permanente de Hogares (EPH-INDEC) para modelar y predecir factores de abandono escolar, contribuyendo al análisis educativo en Argentina.
