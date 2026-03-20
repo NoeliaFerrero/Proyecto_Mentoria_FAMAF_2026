@@ -1,0 +1,50 @@
+variable,descripcion,variable_estandar,dimension
+ap03_blanco,¿Cuál es el sexo que figura en tu DNI? - Blanco,sexo,estudiante
+ap03_no_disponible,¿Cuál es el sexo que figura en tu DNI? - No disponible,sexo,estudiante
+ap03_multimarca,¿Cuál es el sexo que figura en tu DNI? - Multimarca,sexo,estudiante
+ap03_masculino,¿Cuál es el sexo que figura en tu DNI? - Masculino,sexo,estudiante
+ap03_femenino,¿Cuál es el sexo que figura en tu DNI? - Femenino,sexo,estudiante
+ap03_x,¿Cuál es el sexo que figura en tu DNI? - X,sexo,estudiante
+ap27f_blanco,"En general, ¿cuáles fueron los tres principales motivos de las inasistencias? [Tenía que ayudar con las tareas del hogar] - Blanco",condiciones_hogar,trayectoria
+ap27f_no_disponible,"En general, ¿cuáles fueron los tres principales motivos de las inasistencias? [Tenía que ayudar con las tareas del hogar] - No disponible",condiciones_hogar,trayectoria
+ap27f_no_selecciona,"En general, ¿cuáles fueron los tres principales motivos de las inasistencias? [Tenía que ayudar con las tareas del hogar] - No selecciona",condiciones_hogar,trayectoria
+ap27f_selecciona,"En general, ¿cuáles fueron los tres principales motivos de las inasistencias? [Tenía que ayudar con las tareas del hogar] - Selecciona",condiciones_hogar,trayectoria
+ap29j_blanco,"Recordando los momentos en los que no hubo clases presenciales, ¿te parece que las siguientes situaciones impactaron de manera negativa en tus aprendizajes?  [Situaciones familiares (enfermedad, desocupación, pérdida de un familiar, etc.)] - Blanco",edad,estudiante
+ap29j_no_disponible,"Recordando los momentos en los que no hubo clases presenciales, ¿te parece que las siguientes situaciones impactaron de manera negativa en tus aprendizajes?  [Situaciones familiares (enfermedad, desocupación, pérdida de un familiar, etc.)] - No disponible",edad,estudiante
+ap29j_multimarca,"Recordando los momentos en los que no hubo clases presenciales, ¿te parece que las siguientes situaciones impactaron de manera negativa en tus aprendizajes?  [Situaciones familiares (enfermedad, desocupación, pérdida de un familiar, etc.)] - Multimarca",edad,estudiante
+ap29j_sí,"Recordando los momentos en los que no hubo clases presenciales, ¿te parece que las siguientes situaciones impactaron de manera negativa en tus aprendizajes?  [Situaciones familiares (enfermedad, desocupación, pérdida de un familiar, etc.)] - Sí",edad,estudiante
+ap29j_no,"Recordando los momentos en los que no hubo clases presenciales, ¿te parece que las siguientes situaciones impactaron de manera negativa en tus aprendizajes?  [Situaciones familiares (enfermedad, desocupación, pérdida de un familiar, etc.)] - No",edad,estudiante
+apa34h_blanco,"Al finalizar el secundario, ¿qué proyectos inmediatos tenés? [Realizar trabajos solidarios o comunitarios (participación en comedores, asistencia a personas mayores, acciones religiosas, etc.)] - Blanco",trabaja,trayectoria
+apa34h_no_corresponde,"Al finalizar el secundario, ¿qué proyectos inmediatos tenés? [Realizar trabajos solidarios o comunitarios (participación en comedores, asistencia a personas mayores, acciones religiosas, etc.)] - No corresponde",trabaja,trayectoria
+apa34h_no_selecciona,"Al finalizar el secundario, ¿qué proyectos inmediatos tenés? [Realizar trabajos solidarios o comunitarios (participación en comedores, asistencia a personas mayores, acciones religiosas, etc.)] - No selecciona",trabaja,trayectoria
+apa34h_selecciona,"Al finalizar el secundario, ¿qué proyectos inmediatos tenés? [Realizar trabajos solidarios o comunitarios (participación en comedores, asistencia a personas mayores, acciones religiosas, etc.)] - Selecciona",trabaja,trayectoria
+edada_junio2022_blanco,Edad a Junio 2022 - Blanco,edad,estudiante
+edada_junio2022_14_años,Edad a Junio 2022 - 14 años,edad,estudiante
+edada_junio2022_15_años,Edad a Junio 2022 - 15 años,edad,estudiante
+edada_junio2022_16_años,Edad a Junio 2022 - 16 años,edad,estudiante
+edada_junio2022_17_años,Edad a Junio 2022 - 17 años,edad,estudiante
+edada_junio2022_18_años,Edad a Junio 2022 - 18 años,edad,estudiante
+edada_junio2022_19_años,Edad a Junio 2022 - 19 años,edad,estudiante
+edada_junio2022_20_años,Edad a Junio 2022 - 20 años,edad,estudiante
+edada_junio2022_21_años,Edad a Junio 2022 - 21 años,edad,estudiante
+sobreedad_blanco,Sobreedad - Blanco,edad,estudiante
+sobreedad_menores_de_17_años,Sobreedad - Menores de 17 años,edad,estudiante
+sobreedad_edad_teórica_para_el_año_17_años_al_30_de_junio,Sobreedad - Edad teórica para el año (17 años al 30 de junio),edad,estudiante
+sobreedad_1_año_de_sobreedad_18_años_al_30_de_junio,Sobreedad - 1 año de sobreedad (18 años al 30 de junio),edad,estudiante
+sobreedad_2_años_de_sobreedad_19_años_al_30_de_junio,Sobreedad - 2 años de sobreedad (19 años al 30 de junio),edad,estudiante
+sobreedad_3_años_o_más_de_sobreedad_20_años_mas_30jun,Sobreedad - 3 años o más de sobreedad (20 años o más al 30 de junio)*,edad,estudiante
+ap05_blanco,¿Tu(s) madre(s) o padre(s) nacieron en otro país que no sea Argentina? - Blanco,otros,socioeconomico
+ap05_multimarca,¿Tu(s) madre(s) o padre(s) nacieron en otro país que no sea Argentina? - Multimarca,otros,socioeconomico
+ap05_no,¿Tu(s) madre(s) o padre(s) nacieron en otro país que no sea Argentina? - No,otros,socioeconomico
+ap09b_blanco,¿Con quién o quiénes vivís? Padre - Blanco,otros,socioeconomico
+ap09b_no_disponible,¿Con quién o quiénes vivís? Padre - No disponible,otros,socioeconomico
+ap09b_no_selecciona,¿Con quién o quiénes vivís? Padre - No selecciona,otros,socioeconomico
+ap12k_blanco,"¿Disponés de los siguientes objetos, servicios o espacios en el lugar donde vivís?  [Conexión a Internet] - Blanco",internet,socioeconomico
+ap12k_multimarca,"¿Disponés de los siguientes objetos, servicios o espacios en el lugar donde vivís?  [Conexión a Internet] - Multimarca",internet,socioeconomico
+ap12k_no,"¿Disponés de los siguientes objetos, servicios o espacios en el lugar donde vivís?  [Conexión a Internet] - No",internet,socioeconomico
+ap19a_20_horas_o_más_en_la_semana,"La semana pasada, ¿realizaste algunas de las siguientes actividades?, ¿cuánto tiempo le dedicaste? [Trabajar fuera del hogar para una o un empleador] - 20 horas o más en la semana",condiciones_hogar,socioeconomico
+ap19a_blanco,"La semana pasada, ¿realizaste algunas de las siguientes actividades?, ¿cuánto tiempo le dedicaste? [Trabajar fuera del hogar para una o un empleador] - Blanco",condiciones_hogar,socioeconomico
+ap19a_entre_10_y_14_horas_en_la_semana,"La semana pasada, ¿realizaste algunas de las siguientes actividades?, ¿cuánto tiempo le dedicaste? [Trabajar fuera del hogar para una o un empleador] - Entre 10 y 14 horas en la semana",condiciones_hogar,socioeconomico
+ap19e_20_horas_o_más_en_la_semana,"La semana pasada, ¿realizaste algunas de las siguientes actividades?, ¿cuánto tiempo le dedicaste? [Participar del trabajo familiar fuera del hogar] - 20 horas o más en la semana",condiciones_hogar,socioeconomico
+ap19e_blanco,"La semana pasada, ¿realizaste algunas de las siguientes actividades?, ¿cuánto tiempo le dedicaste? [Participar del trabajo familiar fuera del hogar] - Blanco",condiciones_hogar,socioeconomico
+ap19e_entre_10_y_14_horas_en_la_semana,"La semana pasada, ¿realizaste algunas de las siguientes actividades?, ¿cuánto tiempo le dedicaste? [Participar del trabajo familiar fuera del hogar] - Entre 10 y 14 horas en la semana",condiciones_hogar,socioeconomico

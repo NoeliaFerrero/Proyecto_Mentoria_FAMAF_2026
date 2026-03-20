@@ -1,0 +1,7 @@
+variable,base_variable,dimension,descripcion,keep,concepto
+ap03_blanco,ap03_blanco,estudiante,¿Cuál es el sexo que figura en tu DNI? - Blanco,True,otros
+ap05_blanco,ap05_blanco,socioeconomico,¿Tu(s) madre(s) o padre(s) nacieron en otro país que no sea Argentina? - Blanco,True,educacion_madre
+ap09b_blanco,ap09b_blanco,socioeconomico,¿Con quién o quiénes vivís? Padre - Blanco,True,educacion_padre
+ap12k_blanco,ap12k_blanco,socioeconomico,"¿Disponés de los siguientes objetos, servicios o espacios en el lugar donde vivís?  [Conexión a Internet] - Blanco",True,acceso_tecnologia
+ap19a_20_horas_o_más_en_la_semana,ap19a_20_horas_o_más_en_la_semana,socioeconomico,"La semana pasada, ¿realizaste algunas de las siguientes actividades?, ¿cuánto tiempo le dedicaste? [Trabajar fuera del hogar para una o un empleador] - 20 horas o más en la semana",True,condiciones_hogar
+ap19e_20_horas_o_más_en_la_semana,ap19e_20_horas_o_más_en_la_semana,socioeconomico,"La semana pasada, ¿realizaste algunas de las siguientes actividades?, ¿cuánto tiempo le dedicaste? [Participar del trabajo familiar fuera del hogar] - 20 horas o más en la semana",True,situacion_laboral
