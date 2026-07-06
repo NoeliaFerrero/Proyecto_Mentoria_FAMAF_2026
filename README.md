@@ -322,7 +322,7 @@ El juego está por comenzar..!
 
 ---
 
-**Mentoría FaMAF — Ciencia de Datos**
+**Mentoría FaMAF - Ciencia de Datos**
 
 By Noe Ferrero
 
