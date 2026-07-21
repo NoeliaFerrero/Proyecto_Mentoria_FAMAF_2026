@@ -19,4 +19,28 @@ Esta matriz les permitirá comprender cómo se relacionan las distintas fuentes 
 
 Las Pruebas Aprender y la EPH no pueden vincularse a nivel individual, ya que no comparten un identificador común que permita relacionar un estudiante con un hogar específico.
 
-Por este motivo, la integración se realizará utilizando variables de integración (como el año y el nivel geográfico compatible), incorporando al dataset de Aprender indicadores socioeconómicos agregados obtenidos 
+Por este motivo, la integración se realizará utilizando variables de integración (como el año y el nivel geográfico compatible), incorporando al dataset de Aprender indicadores socioeconómicos agregados obtenidos a partir de la EPH.
+
+De esta manera, Aprender será la fuente principal del proyecto, mientras que la EPH aportará información del contexto socioeconómico en el que se encuentran los estudiantes evaluados.
+
+                    PRUEBAS APRENDER
+                 (1 fila = 1 estudiante)
+                           │
+                           │
+                           ▼
+                  DATASET ANALÍTICO
+                           ▲
+                           │
+                           │
+           Indicadores socioeconómicos
+                           ▲
+                           │
+               Construidos desde la EPH
+                           ▲
+                           │
+             Viviendas ─────┐
+                            │
+                            ▼
+                        Personas
+                        
+No estamos buscando al estudiante dentro de la EPH. Estamos utilizando la EPH para describir el contexto en el que vive ese estudiante.
