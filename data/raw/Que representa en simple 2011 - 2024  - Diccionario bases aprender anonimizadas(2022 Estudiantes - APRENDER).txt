@@ -1,0 +1,55 @@
+| Variable / grupo      | Qué representa en simple                                                             |
+| --------------------- | ------------------------------------------------------------------------------------ |
+| jurisdiccion          | Provincia o jurisdicción educativa.                                                  |
+| departamento          | Departamento o división territorial.                                                 |
+| sector                | Tipo de gestión: pública/privada u otra clasificación similar.                       |
+| ambito                | Contexto territorial: urbano/rural.                                                  |
+| ap01                  | Mes de nacimiento.                                                                   |
+| ap02                  | Año de nacimiento.                                                                   |
+| ap03                  | Sexo o género.                                                                       |
+| ap04                  | País de nacimiento.                                                                  |
+| ap05, ap06, ap07      | Preguntas binarias de tipo sí/no/no sabe.                                            |
+| ap08                  | Cantidad de integrantes del hogar.                                                   |
+| ap09a a ap09m         | Situaciones o recursos del hogar, probablemente selección múltiple.                  |
+| ap10                  | Otra pregunta binaria sí/no.                                                         |
+| ap11                  | Cantidad de algo, en rangos de 1 a 10 o más.                                         |
+| ap12a a ap12m         | Otro bloque de selección múltiple sí/no.                                             |
+| ap13, ap14            | Preguntas binarias simples.                                                          |
+| ap15                  | Cantidad de libros en papel en el hogar.                                             |
+| ap16a a ap16e         | Nivel educativo de madre, padre o referentes cercanos.                               |
+| ap17a a ap17e         | Si completó o no algún nivel educativo.                                              |
+| ap18a a ap18f         | Horas por semana dedicadas a tareas o actividades.                                   |
+| ap19a a ap19f         | Otro bloque de horas semanales en distintas actividades.                             |
+| ap20                  | Si recibió dinero por esas actividades.                                              |
+| ap21a a ap21p         | Bloque de respuestas sí/no sobre conductas o situaciones del hogar/escuela.          |
+| ap22                  | Horas de estudio fuera del horario escolar.                                          |
+| ap23                  | Nivel de apoyo familiar para tomar decisiones.                                       |
+| ap24                  | Asistencia al jardín de infantes.                                                    |
+| ap25a a ap25c         | Cantidad de veces que ocurrió algo.                                                  |
+| ap26                  | Cantidad de inasistencias escolares.                                                 |
+| ap27a a ap27j         | Bloque de selección múltiple.                                                        |
+| ap28a a ap28e         | Bloque sí/no sobre acceso o condiciones.                                             |
+| ap29a a ap29j         | Otro bloque sí/no de comportamientos, recursos o apoyos.                             |
+| ap30a a ap30e         | Importancia de distintos factores.                                                   |
+| ap31a a ap31g         | Si algo disminuyó, se mantuvo o aumentó.                                             |
+| ap32a a ap32c         | Otro bloque de evolución temporal.                                                   |
+| apA33a a apA33n       | Importancia de distintos aspectos, probablemente para una etapa o módulo específico. |
+| apA34a a apA34j       | Selección múltiple sobre opciones o prácticas.                                       |
+| apA35a a apA35n       | Bloque sí/no en otro módulo.                                                         |
+| apA36a a apA36h       | Otro bloque de selección múltiple.                                                   |
+| apA37a a apA37k       | Otro bloque de selección múltiple.                                                   |
+| apB33a a apB33f       | Evaluación de algo en escala cualitativa.                                            |
+| apB34a a apB34d       | Bloque sí/no.                                                                        |
+| apB35a a apB35c       | Bloque sí/no/no sé.                                                                  |
+| apB36a a apB36i       | Selección múltiple.                                                                  |
+| apB37a a apB37e       | Selección múltiple.                                                                  |
+| ldesemp               | Desempeño en Lengua.                                                                 |
+| mdesemp               | Desempeño en Matemática.                                                             |
+| NSE_nivel             | Nivel socioeconómico general.                                                        |
+| NSE_Quintiles         | Quintil socioeconómico.                                                              |
+| edadA_junio2022       | Edad al 30 de junio de 2022.                                                         |
+| migracion             | Condición migrante o no migrante del hogar.                                          |
+| sobreedad             | Si el estudiante tiene edad mayor a la teórica para el curso.                        |
+| Nivel_Ed_Madre        | Nivel educativo de la madre.                                                         |
+| Nivel_Ed_Padre        | Nivel educativo del padre.                                                           |
+| Nivel_Ed_Persona_Resp | Nivel educativo del adulto responsable.                                              |
