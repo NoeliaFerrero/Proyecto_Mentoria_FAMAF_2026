@@ -217,7 +217,7 @@ Cada carpeta cumple un rol específico dentro del flujo de trabajo del proyecto.
 
 El proyecto se desarrollará en tres entregas principales que reflejan etapas reales de un proyecto de Ciencia de Datos.
 
-### Deliverable 1 — Data Pipeline
+### Deliverable 1 - Data Pipeline
 
 Construcción del pipeline de datos:
 
@@ -228,7 +228,7 @@ Construcción del pipeline de datos:
 
 ---
 
-### Deliverable 2 — Exploratory Data Analysis
+### Deliverable 2 - Exploratory Data Analysis
 
 Análisis exploratorio del dataset:
 
@@ -239,7 +239,7 @@ Análisis exploratorio del dataset:
 
 ---
 
-### Deliverable 3 — Predictive Models
+### Deliverable 3 - Predictive Models
 
 Entrenamiento y evaluación de modelos de Machine Learning:
 
